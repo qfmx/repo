@@ -1,6 +1,6 @@
 # 开源仓库
 
-> 只做技术的分享
+只做技术的分享
 
 
 
@@ -10,9 +10,8 @@
 
 ### 联系我
 
-QQ: 1125438556
 
-blog: http://allms.cn
+blog: https://josxy.cn
 
 email: mail.xyj@allms.cn
 
