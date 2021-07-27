@@ -15,6 +15,11 @@
 -　网络介绍
 
 -　网络文章整理
+## 生产力工具
+
+- everything https://www.voidtools.com/zh-cn/downloads/
+- listary https://www.listary.com/pro
+- utools https://www.u.tools/
 
 ## 可信度高吗？
 - 可信度高达90%，原则上原作者亲自体验过
